@@ -2,9 +2,9 @@
 - - - -
 #### 各平台安装包下载（请在浏览器中打开）
 
-**:arrow_double_down: [iOS 大陆用户下载教程](暂未开放)** 
+**:arrow_double_down: [iOS 大陆用户下载教程](暂未开放)(暂未开放)** 
 
-**:arrow_double_down: [iOS 海外商店版本](h暂未开放)**
+**:arrow_double_down: [iOS 海外商店版本](h暂未开放)(暂未开放)**
 
 **:arrow_double_down: [Android 版本.apk](https://xz.ioveapp.com/os/az/iovevpn-anzhuo.apk)**
 
